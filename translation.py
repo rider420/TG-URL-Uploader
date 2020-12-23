@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """<b>Nice You Started This Bot</b>
-<a href='https://t.me/Userisoffline'><b>UserIsOffline</b></a> is My Master"""disable_web_page_preview=True
+<a href='https://t.me/Userisoffline'><b>UserIsOffline</b></a> is My Master"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "/help for Details"
